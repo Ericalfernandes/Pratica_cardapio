@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&family=Rubik+Moonrocks&display=swap');
+
+body { 
+    margin: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background: linear-gradient( rgb(245, 200, 200), rgb(250, 174, 104), rgb(247, 106, 87));
+}
+
+h1 {
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 60px;
+    padding-left: 45px;
+    color: black;
+    
+}
+
+h2 {
+    padding-left: 320px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+}
+
+h3 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+}
+
+img {
+    height: 427px;
+    width: 640px;
+}
+
+.arrumadinho {
+    height: 595px;
+    width: 640px;
+}
